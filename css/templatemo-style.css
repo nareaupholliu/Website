@@ -88,10 +88,6 @@ a:hover {
 .tm-brand-container {
   margin-top: 250px;
   padding: 75px 110px;
-  width: 100px;
-  height: 250px;
-
-
 }
 
 .tm-brand-name {
@@ -99,7 +95,7 @@ a:hover {
 }
 
 .tm-brand-description {
-  font-size: 1rem;
+  font-size: 1.4rem;
 }
 
 .parallax-window {
@@ -339,7 +335,7 @@ p {
 
 @media (max-width: 443px) {
   .tm-brand-name {
-    font-size: 3rem;
+    font-size: 3.2rem;
   }
 
   .tm-brand-container {
