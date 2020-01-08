@@ -212,6 +212,12 @@ a:hover {
   padding: 20px 45px;
 }
 
+.tm-education-description {
+  padding: 20px 30px;
+  margin-left: 200px;
+
+}
+
 .tm-portfolio-description h3 {
   margin-bottom: 20px;
 }
