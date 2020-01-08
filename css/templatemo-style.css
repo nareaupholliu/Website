@@ -88,6 +88,8 @@ a:hover {
 .tm-brand-container {
   margin-top: 350px;
   padding: 75px 110px;
+  align-items: center;
+  justify-content: center;
 }
 
 .tm-brand-name {
