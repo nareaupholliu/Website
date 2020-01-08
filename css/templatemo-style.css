@@ -83,6 +83,16 @@ a:hover {
   margin-left: 70px;
 }
 
+.img-fluid-linkedin {
+  max-width: 92%;
+  height: 100px;
+}
+
+.img-fluid-github {
+  max-width: 92%;
+  height: 100px;
+}
+
 .mb-5, .my-5 {
     margin-bottom: 3rem!important;
 }
