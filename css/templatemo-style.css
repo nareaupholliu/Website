@@ -87,14 +87,17 @@ a:hover {
 
 .tm-brand-container {
   padding: 75px 110px;
+  width: 330px;
+  height: 220px;
+
 }
 
 .tm-brand-name {
-  font-size: 3.8rem;
+  font-size: 3rem;
 }
 
 .tm-brand-description {
-  font-size: 1.4rem;
+  font-size: 1rem;
 }
 
 .parallax-window {
