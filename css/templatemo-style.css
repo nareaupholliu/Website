@@ -76,6 +76,11 @@ a:hover {
   align-items: center;
 }
 
+.imgstyle {
+  height: 400px;
+  padding-left: 60px;
+}
+
 .tm-brand-container-outer {
   margin-top: -400px;
 }
