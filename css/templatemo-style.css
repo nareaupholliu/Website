@@ -170,17 +170,7 @@ a:hover {
   margin-bottom: 80px;
 }
 
-.tm-portfolio-name1 {
-  width: 330px;
-  height: 220px;
-  font-size: 2rem;
-  padding: 20px 20px;
-  display: flex;
-  align-items: center;
-  text-align: center;
-}
-
-.tm-portfolio-name2 {
+.tm-portfolio-name {
   width: 330px;
   height: 220px;
   font-size: 2rem;
