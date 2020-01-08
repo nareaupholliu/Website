@@ -86,9 +86,11 @@ a:hover {
 }
 
 .tm-brand-container {
-  width: 330px;
-  height: 220px;
   margin-top: 250px;
+  padding: 75px 110px;
+  width: 100px;
+  height: 250px;
+
 
 }
 
