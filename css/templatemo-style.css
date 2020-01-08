@@ -76,6 +76,13 @@ a:hover {
   align-items: center;
 }
 
+.img-fluid {
+  max-width: 92%;
+  height: 300px;
+  margin-top: 62px;
+  margin-left: 70px;
+}
+
 .imgstyle {
   height: 400px;
   padding-left: 200px;
